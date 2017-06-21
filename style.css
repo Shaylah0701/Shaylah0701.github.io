@@ -1,4 +1,20 @@
 body {
-	font-family:sans-serif;
-	background-color:red;
-background-image: center
+	background-color:black;
+color:white; height: 5000}
+	h1 {color: white;}
+	h2 {border-color: green;
+	border-style: dotted;
+padding: 20px; 
+margin-left: 40px; text-align: center;}
+h3 {border-color: green; border-style: dotted;padding: 15px margin-left:35px
+	;}
+	#cantescape {position: fixed;top: 20px; right: 20px }
+	#jane {margin:auto;
+		display: block;}
+		#hamp {margin:auto;
+		display: block;}
+		#mon {margin:auto;
+		display: block;}
+		
+		#hu { text-decoration: underline; 
+    text-decoration-style: wavy;}
